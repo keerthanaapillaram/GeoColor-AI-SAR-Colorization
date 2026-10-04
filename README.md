@@ -523,4 +523,4 @@ If this work is useful to your research, please cite:
 * **Gedipudi Darshani** - *Artificial Intelligence & Data Science*
 * **Yenuganti Prathyusha** - *Artificial Intelligence & Machine Learning*
 
-**Mentor:** Selvanayaki S · **Institution:** Saveetha Engineering College
+**Mentor:** Kolli Amos Daniel · **Institution:** Saveetha Engineering College
