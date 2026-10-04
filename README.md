@@ -321,7 +321,7 @@ sar-image-colorization/
 
 ```powershell
 # Clone the repository
-git clone https://github.com/Gedipudidarshani/sar-image-colorization.git
+git clone https://github.com/keerthanaapillaram/sar-image-colorization.git
 cd sar-image-colorization
 
 # Create and activate virtual environment
@@ -495,9 +495,9 @@ If this work is useful to your research, please cite:
 ```bibtex
 @misc{darshani2026sarcolorization,
   title        = {Physics-Guided SAR Image Colorization: Despeckling, Swin-Attention and Latent Diffusion Pipeline},
-  author       = {Gedipudi Darshani and Keerthana P and Yenuganti Prathyusha},
+  author       = { Keerthana P and Gedipudi Darshani and Yenuganti Prathyusha},
   year         = {2026},
-  howpublished = {\url{https://github.com/Gedipudidarshani/sar-image-colorization}},
+  howpublished = {\url{https://github.com/keerthanaapillaram/sar-image-colorization}},
   note         = {Saveetha Engineering College}
 }
 ```
