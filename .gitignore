@@ -1,0 +1,17 @@
+﻿venv/
+env/
+__pycache__/
+*.py[cod]
+*.class
+*.pth
+*.pt
+*.safetensors
+checkpoints/
+dataset/
+data/
+*.tif
+*.tiff
+colorized_*.png
+*.log
+.vscode/
+.idea/
