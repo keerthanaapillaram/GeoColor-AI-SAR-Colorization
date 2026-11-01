@@ -495,9 +495,9 @@ If this work is useful to your research, please cite:
 ```bibtex
 @misc{darshani2026sarcolorization,
   title        = {Physics-Guided SAR Image Colorization: Despeckling, Swin-Attention and Latent Diffusion Pipeline},
-  author       = {Gedipudi Darshani and Keerthana P and Yenuganti Prathyusha},
+  author       = {Keerthana P and Gedipudi Darshani and Yenuganti Prathyusha},
   year         = {2026},
-  howpublished = {\url{https://github.com/Gedipudidarshani/sar-image-colorization}},
+  howpublished = {\url{https://github.com/keerthanaapillaram/GeoColor-AI-SAR-Colorization}},
   note         = {Saveetha Engineering College}
 }
 ```
@@ -519,8 +519,8 @@ If this work is useful to your research, please cite:
 ---
 
 ## 👥 Author
-* **Gedipudi Darshani** - *Artificial Intelligence & Data Science*
 * **Keerthana P** - *Artificial Intelligence & Machine Learning*
+* **Gedipudi Darshani** - *Artificial Intelligence & Data Science*
 * **Yenuganti Prathyusha** - *Artificial Intelligence & Machine Learning*
 
-**Mentor:** Selvanayaki S · **Institution:** Saveetha Engineering College
+**Mentor:** Kolli Amos Daniel · **Institution:** Saveetha Engineering College
