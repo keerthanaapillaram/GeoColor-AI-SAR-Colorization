@@ -321,7 +321,7 @@ sar-image-colorization/
 
 ```powershell
 # Clone the repository
-git clone https://github.com/Gedipudidarshani/GeoColor-AI-SAR-Colorization.git
+git clone https://github.com/keerthanaapillaram/GeoColor-AI-SAR-Colorization.git
 cd sar-image-colorization
 
 # Create and activate virtual environment
