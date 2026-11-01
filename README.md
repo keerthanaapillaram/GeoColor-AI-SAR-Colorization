@@ -493,7 +493,7 @@ Released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 If this work is useful to your research, please cite:
 
 ```bibtex
-@misc{darshani2026sarcolorization,
+@misc{keerthana2026sarcolorization,
   title        = {Physics-Guided SAR Image Colorization: Despeckling, Swin-Attention and Latent Diffusion Pipeline},
   author       = {Keerthana P and Gedipudi Darshani and Yenuganti Prathyusha},
   year         = {2026},
