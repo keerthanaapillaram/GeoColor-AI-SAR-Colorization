@@ -452,13 +452,13 @@ Released under the **MIT License**. See [`LICENSE`](LICENSE).
 ## 📝 Citation
 
 ```bibtex
-@misc{darshani2026geocolor,
+@misc{keerthana2026geocolor,
   title        = {Physics-Guided SAR-to-Optical Colorization with Radiometry-Preserving Despeckling:
                   A Leakage-Free Benchmark on Sentinel-1/2},
-  author       = {Selvanayaki S and Mahesh, K. Micheal and Daniel, Kolli Amos and Darshani, Gedipudi
-                  and Prathyusha, Yenuganti and Keerthana, P},
+  author       = { Kolli Amos Daniel, Dr. K. Micheal Mahesh and Selvanayaki and Keerthana P, Gedipudi darshani
+                  and Yenuganti Prathyusha},
   year         = {2026},
-  howpublished = {\url{https://github.com/Gedipudidarshani/GeoColor-AI-SAR-Colorization}},
+  howpublished = {\url{https://github.com/keerthanaapillaram/GeoColor-AI-SAR-Colorization}},
   note         = {Saveetha Engineering College}
 }
 ```
@@ -487,9 +487,9 @@ The full bibliography is in [`paper/refs.bib`](paper/refs.bib).
 
 ## 👥 Team
 
+* **P Keerthana**, Artificial Intelligence & Machine Learning
 * **Gedipudi Darshani**, Artificial Intelligence & Data Science
 * **Yenuganti Prathyusha**, Artificial Intelligence & Machine Learning
-* **P Keerthana**, Artificial Intelligence & Machine Learning
 
-**Mentors:** Selvanayaki S · Dr. K. Micheal Mahesh · Kolli Amos Daniel
+**Mentors:** Kolli Amos Daniel · Dr. K. Micheal Mahesh · Selvanayaki S
 **Institution:** Saveetha Engineering College, Chennai, India
